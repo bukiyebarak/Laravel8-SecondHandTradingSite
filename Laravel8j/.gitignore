@@ -15,3 +15,5 @@ yarn-error.log
 /.vscode
 package.json
 package-lock.json
+composer.lock
+composer.json
